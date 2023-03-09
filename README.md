@@ -1,10 +1,22 @@
+
+# Context : Welcome on the game creation !
+
+
+# Work Part 1 : Solo. TO DO
+
+
+# Work Part 2 : Raid. TO DO
+
+
 # Space_Invaders
 Game in python to work with OOP and push further the limit of this retro game using pygame !
 
 # Nom du jeu : 
 Space Invaders
+
 # Description du jeu : 
 Les joueurs contrôlent un vaisseau spatial qui doit détruire des envahisseurs extraterrestres avant qu'ils ne descendent sur la Terre. Les joueurs doivent éviter les attaques des ennemis tout en tirant sur eux pour gagner des points.
+
 # Objectifs de l'apprentissage :
 - Comprendre les principes de base de la programmation orientée objet tels que les classes, les objets, les attributs et les méthodes.
 - Apprendre à créer des classes pour les différents éléments du jeu, tels que le vaisseau spatial, les envahisseurs et les tirs.
@@ -16,3 +28,7 @@ Les joueurs contrôlent un vaisseau spatial qui doit détruire des envahisseurs 
 - La classe VaisseauSpatial : Cette classe pourrait inclure des attributs tels que la position du vaisseau sur l'écran, sa vitesse de déplacement et son niveau de vie. Les méthodes pourraient inclure des fonctions pour déplacer le vaisseau, pour le faire tirer et pour gérer les collisions avec les envahisseurs ennemis.
 - La classe Envahisseur : Cette classe pourrait inclure des attributs tels que la position de l'envahisseur sur l'écran, sa vitesse de déplacement et sa résistance aux tirs. Les méthodes pourraient inclure des fonctions pour faire bouger l'envahisseur sur l'écran et pour gérer les collisions avec le vaisseau spatial.
 - La classe Tir : Cette classe pourrait inclure des attributs tels que la position du tir sur l'écran, sa vitesse de déplacement et les dégâts qu'il inflige aux ennemis. Les méthodes pourraient inclure des fonctions pour faire avancer le tir sur l'écran et pour détecter les collisions avec les ennemis.
+
+# TO DO : 
+    - Fix bugg : FileNotFoundError: No file 'background.png' found in working directory 'C:\Users
+    ==> Script to manage path (must work everywhere)
